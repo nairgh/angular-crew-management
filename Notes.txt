@@ -1,0 +1,30 @@
+https://www.youtube.com/watch?v=TDSbNFt9XpE&list=PLp50dWW_m40VWRoKr1NFhtG_Llxi81Giw
+soorya.aaradhya@gmail.com
+=========================
+https://angular.dev/tutorials/learn-angular
+
+npm install -g @angular/cli
+
+create new application 
+ng new crew-management  => creates new application
+cd crew-management => ng serve  => to run
+
+ng add @angular/material => angular material 
+npm install bootstrap bootstrap-icons => angular bootstrap
+
+ng generate component header -> generate header component
+ng generate module layout -> generate a module
+ng generate
+       component
+       module
+       service
+       pipe
+       directive
+       routing
+       interface
+       model
+       class
+
+ng g c crew-members  => generate a component
+@Input => send data from parent to child
+@output => send data from chile to parent
